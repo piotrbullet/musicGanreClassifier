@@ -1,0 +1,3 @@
+Best results from:
+3-layer models - 32_16_8 - 72% test accuracy
+2-layer models - 32_16 - 87% test accuracy
